@@ -13,6 +13,13 @@ FontLoader.Config = {
 				Style = Enum.FontStyle.Normal,
 			},
 		},
+		Minecraft = {
+			{
+				Url = "https://github.com/idonthaveanamexd/project/blob/main/Fonts/Minecraftia.ttf",
+				Weight = Enum.FontWeight.Regular,
+				Style = Enum.FontStyle.Normal,
+			},
+		},
 	},
 }
 
