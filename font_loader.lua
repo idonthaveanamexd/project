@@ -15,7 +15,7 @@ FontLoader.Config = {
 		},
 		Minecraft = {
 			{
-				Url = "https://github.com/idonthaveanamexd/project/blob/main/Fonts/Minecraftia.ttf",
+				Url = "https://github.com/idonthaveanamexd/project/raw/refs/heads/main/Fonts/Minecraftia-Regular.ttf",
 				Weight = Enum.FontWeight.Regular,
 				Style = Enum.FontStyle.Normal,
 			},
